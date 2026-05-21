@@ -1,5 +1,3 @@
-[pm_meston chevalier_candidature_symrise.html](https://github.com/user-attachments/files/28103363/pm_meston.chevalier_candidature_symrise.html)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
